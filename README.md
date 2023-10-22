@@ -1,12 +1,9 @@
 # SnapBlog
-SnapBlog is classic and creative design of header and footer of a website
-# Project Name
-
-A brief description of your project.
+SnapBlog is a classic and creative design of header and footer of a website
 
 ## Table of Contents
 
-- [Project Name](#project-name)
+- [SnapBlog](#snapblog)
 - [Description](#description)
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
