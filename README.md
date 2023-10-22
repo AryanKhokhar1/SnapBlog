@@ -9,41 +9,39 @@ SnapBlog is a classic and creative design of header and footer of a website
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
-Explain what your project does and what problem it solves. You can also provide context or background information.
+SnapBlog is a webpage which showcase a classic and simple design of header and footer
 
 ## Demo
 
-Include a link to a live demo of your project if applicable.
+![image](https://github.com/AryanKhokhar1/SnapBlog/assets/117306452/485f9fdc-5660-44b3-a0b7-c46497550f13)
+
+Here is the link to a live demo of SnapBlog
+https://aryankhokhar1.github.io/SnapBlog/
 
 ## Technologies Used
 
-List the main technologies and tools you used to create your project. For example:
+The main technologies used in SnapBlog is -
 
-- Python
-- Flask
-- HTML/CSS
-- SQLite
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
-Highlight the key features of your project. You can use bullet points for this section.
+The key features of SnapBlog
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Simple and Classic Design
+
 
 ## Installation
 
-Provide step-by-step instructions on how to install your project. Include any dependencies and setup that users need to follow.
+Step-by-Step instructions on how to install SnapBlog. Include any dependencies and setup that users need to follow.
 
 ```bash
-# Example installation steps
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-pip install -r requirements.txt
+# Installation steps
+git clone [https://github.com/AryanKhokhar1/SnapBlog.git]
+cd SnapBlog
+npm install
